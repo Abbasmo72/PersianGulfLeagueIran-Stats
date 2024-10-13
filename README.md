@@ -1,4 +1,4 @@
-# BitcoinAnalyzer_lost_one_week
+# BitcoinAnalyzer lost one week
  This program displays the price of Bitcoin in the form of a chart using the Python language
 تحلیل و توضیح کد برای نمایش قیمت بیت‌کوین
 این کد پایتون با استفاده از API وب‌سایت CoinGecko اطلاعاتی درباره قیمت بیت‌کوین را در طول یک هفته گذشته دریافت کرده و با استفاده از کتابخانه Matplotlib نموداری از تغییرات قیمت آن را ترسیم می‌کند. در ادامه جزئیات عملکرد هر بخش از کد توضیح داده می‌شود:
