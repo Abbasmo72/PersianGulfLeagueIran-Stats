@@ -11,3 +11,24 @@ This repository contains various CSV files related to the Persian Gulf Pro Leagu
 - TopScorers.csv: The top goal scorer of each season.
   
 These datasets include key statistics that allow for detailed analysis of team and player performance over different seasons.
+## 🚀 How to Use the Data
+Since this repository only contains CSV files, no additional dependencies or installations are required. You can explore and analyze the data using the following tools:
+
+1️⃣ Using Excel or Google Sheets
+Simply open the CSV files in Microsoft Excel or Google Sheets to explore and analyze the data visually.
+
+2️⃣ Using Python & Pandas
+You can leverage Python and the Pandas library for data processing and analysis.
+
+Example: Loading the dataset in Python
+```python
+import pandas as pd
+
+# Read the CSV file
+df = pd.read_csv("LeagueTable.csv")
+
+# Display the first five rows
+print(df.head())
+```
+3️⃣ Using SQL for Data Analysis
+If you prefer working with databases, you can import the CSV files into an SQLite database and run SQL queries for more structured analysis.
