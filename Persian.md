@@ -22,7 +22,7 @@
 import pandas as pd
 
 # خواندن فایل CSV
-df = pd.read_csv("combined_persian_gulf_league.csv")
+df = pd.read_csv("LeagueTable.csv")
 
 # نمایش ۵ سطر اول داده‌ها
 print(df.head())
