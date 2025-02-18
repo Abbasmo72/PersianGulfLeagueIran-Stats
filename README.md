@@ -38,4 +38,11 @@ If you prefer working with databases, you can import the CSV files into an SQLit
 ✅ Building machine learning models to predict match outcomes<br>
 ✅ Statistical analysis of winning and losing patterns in the Persian Gulf Pro League<br>
 ✅ Evaluating the impact of managerial changes, player transfers, and match conditions on team performance<br>
-## 
+## 🤝 Contributions
+This is an open-source project, and contributions are welcome! If you have updated datasets or suggestions to improve this repository, feel free to contribute via Issues or Pull Requests.
+
+Ways to contribute:
+
+🔹 Adding new datasets from additional seasons<br>
+🔹 Validating and improving existing data<br>
+🔹 Suggesting new methods for data visualization and analysis<br>
