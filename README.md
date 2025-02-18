@@ -46,3 +46,7 @@ Ways to contribute:
 🔹 Adding new datasets from additional seasons<br>
 🔹 Validating and improving existing data<br>
 🔹 Suggesting new methods for data visualization and analysis<br>
+## 📜 License
+All data in this repository is released under the MIT License, allowing free usage for research and educational purposes.
+
+💡 If you find this project helpful, please ⭐ the repository on GitHub! 😊
