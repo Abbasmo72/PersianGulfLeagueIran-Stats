@@ -32,3 +32,10 @@ print(df.head())
 ```
 3️⃣ Using SQL for Data Analysis
 If you prefer working with databases, you can import the CSV files into an SQLite database and run SQL queries for more structured analysis.
+## 📈 Suggested Use Cases
+✅ Analyzing team performance across different seasons and tracking trends over time<br>
+✅ Comparing home and away matches to evaluate the impact of venue on match results<br>
+✅ Building machine learning models to predict match outcomes<br>
+✅ Statistical analysis of winning and losing patterns in the Persian Gulf Pro League<br>
+✅ Evaluating the impact of managerial changes, player transfers, and match conditions on team performance<br>
+## 
