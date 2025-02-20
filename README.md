@@ -1,4 +1,5 @@
-Persian.md
+For Persian version, click [here](Persian.md).
+<hr>
 ## CSV Persian Gulf League Statistics
 This repository contains comprehensive and structured data from the Persian Gulf Pro League (Iranian Premier League) matches. The data is useful for analyzing team performance, predicting match outcomes, and extracting statistical patterns from Iran’s top-tier football competition.
 ## 📌 Introduction
